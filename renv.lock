@@ -1,0 +1,181 @@
+{
+  "R": {
+    "Version": "4.5.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cran.rstudio.com"
+      }
+    ]
+  },
+  "Packages": {
+    "tidyverse": {
+      "Package": "tidyverse",
+      "Version": "2.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "tidyverse_2.0.0"
+    },
+    "tidymodels": {
+      "Package": "tidymodels",
+      "Version": "1.4.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "tidymodels_1.4.1"
+    },
+    "ranger": {
+      "Package": "ranger",
+      "Version": "0.18.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "ranger_0.18.0"
+    },
+    "DALEX": {
+      "Package": "DALEX",
+      "Version": "2.5.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "DALEX_2.5.3"
+    },
+    "DALEXtra": {
+      "Package": "DALEXtra",
+      "Version": "2.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "DALEXtra_2.3.1"
+    },
+    "fairmodels": {
+      "Package": "fairmodels",
+      "Version": "1.2.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "fairmodels_1.2.2"
+    },
+    "recipes": {
+      "Package": "recipes",
+      "Version": "1.3.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "recipes_1.3.2"
+    },
+    "parsnip": {
+      "Package": "parsnip",
+      "Version": "1.5.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "parsnip_1.5.0"
+    },
+    "workflows": {
+      "Package": "workflows",
+      "Version": "1.3.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "workflows_1.3.0"
+    },
+    "yardstick": {
+      "Package": "yardstick",
+      "Version": "1.4.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "yardstick_1.4.0"
+    },
+    "rsample": {
+      "Package": "rsample",
+      "Version": "1.3.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "rsample_1.3.2"
+    },
+    "dplyr": {
+      "Package": "dplyr",
+      "Version": "1.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "dplyr_1.2.1"
+    },
+    "ggplot2": {
+      "Package": "ggplot2",
+      "Version": "4.0.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "ggplot2_4.0.3"
+    },
+    "readr": {
+      "Package": "readr",
+      "Version": "2.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "readr_2.2.0"
+    },
+    "tibble": {
+      "Package": "tibble",
+      "Version": "3.3.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "tibble_3.3.0"
+    },
+    "purrr": {
+      "Package": "purrr",
+      "Version": "1.2.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "purrr_1.2.2"
+    },
+    "stringr": {
+      "Package": "stringr",
+      "Version": "1.5.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "stringr_1.5.2"
+    },
+    "forcats": {
+      "Package": "forcats",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "forcats_1.0.1"
+    },
+    "lubridate": {
+      "Package": "lubridate",
+      "Version": "1.9.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "lubridate_1.9.4"
+    },
+    "broom": {
+      "Package": "broom",
+      "Version": "1.0.12",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "broom_1.0.12"
+    },
+    "tune": {
+      "Package": "tune",
+      "Version": "2.1.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "tune_2.1.0"
+    },
+    "dials": {
+      "Package": "dials",
+      "Version": "1.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "dials_1.4.3"
+    },
+    "infer": {
+      "Package": "infer",
+      "Version": "1.1.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "infer_1.1.0"
+    },
+    "themis": {
+      "Package": "themis",
+      "Version": "1.0.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Hash": "themis_1.0.3"
+    }
+  }
+}
